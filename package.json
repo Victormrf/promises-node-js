@@ -1,0 +1,17 @@
+{
+  "name": "dog-api",
+  "version": "1.0.0",
+  "description": "Using dog generator API to learn more about Async/Await",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Victor Fernandes",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  },
+  "dependencies": {
+    "superagent": "^10.1.0"
+  }
+}
